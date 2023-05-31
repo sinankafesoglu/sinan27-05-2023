@@ -51,6 +51,7 @@ public class C03_findelements {
 
 
     }
+    //Ödev
     //Amazon sayfasına gidiniz
     //iphone aratınız
     //çıkan sonuç yazısını konsola yazdırınız
